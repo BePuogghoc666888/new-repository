@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Áo Thun Nam Basic",
+    "price": 100,
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "name": "Quần Jean Slimfit",
+    "price": 250,
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Giày Sneakers Thể Thao",
+    "price": 500,
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Áo Khoác Bomber Đen",
+    "price": 350,
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Balo Laptop Chống Nước",
+    "price": 400,
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Mũ Lưỡi Trai Kaki",
+    "price": 80,
+    "quantity": 3
+  },
+  {
+    "id": 7,
+    "name": "Thắt Lưng Da Nam",
+    "price": 150,
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "name": "Ví Da Cầm Tay",
+    "price": 200,
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "name": "Kính Mát Thời Trang",
+    "price": 120,
+    "quantity": 2
+  },
+  {
+    "id": 10,
+    "name": "Đồng Hồ Đeo Tay Quartz",
+    "price": 600,
+    "quantity": 1
+  }
+]

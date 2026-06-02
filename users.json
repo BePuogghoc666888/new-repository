@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "email": "vana@example.com",
+    "role": "Administrator",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=A",
+    "bio": "Chuyên gia phát triển phần mềm với 5 năm kinh nghiệm làm việc với React và Node.js."
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "email": "thib@example.com",
+    "role": "Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=B",
+    "bio": "UI/UX Designer đam mê tạo ra những trải nghiệm người dùng tinh tế và hiện đại."
+  },
+  {
+    "id": 3,
+    "name": "Lê Hoàng C",
+    "email": "hoangc@example.com",
+    "role": "Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=C",
+    "bio": "Lập trình viên Front-end trẻ tuổi, yêu thích Tailwind CSS và việc tối ưu hiệu năng web."
+  }, {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "email": "vana@example.com",
+    "role": "Administrator",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=A",
+    "bio": "Chuyên gia phát triển phần mềm với 5 năm kinh nghiệm làm việc với React và Node.js."
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "email": "thib@example.com",
+    "role": "Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=B",
+    "bio": "UI/UX Designer đam mê tạo ra những trải nghiệm người dùng tinh tế và hiện đại."
+  },
+  {
+    "id": 3,
+    "name": "Lê Hoàng C",
+    "email": "hoangc@example.com",
+    "role": "Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=C",
+    "bio": "Lập trình viên Front-end trẻ tuổi, yêu thích Tailwind CSS và việc tối ưu hiệu năng web."
+  }, {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "email": "vana@example.com",
+    "role": "Administrator",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=A",
+    "bio": "Chuyên gia phát triển phần mềm với 5 năm kinh nghiệm làm việc với React và Node.js."
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "email": "thib@example.com",
+    "role": "Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=B",
+    "bio": "UI/UX Designer đam mê tạo ra những trải nghiệm người dùng tinh tế và hiện đại."
+  },
+  {
+    "id": 3,
+    "name": "Lê Hoàng C",
+    "email": "hoangc@example.com",
+    "role": "Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=C",
+    "bio": "Lập trình viên Front-end trẻ tuổi, yêu thích Tailwind CSS và việc tối ưu hiệu năng web."
+  }, {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "email": "vana@example.com",
+    "role": "Administrator",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=A",
+    "bio": "Chuyên gia phát triển phần mềm với 5 năm kinh nghiệm làm việc với React và Node.js."
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "email": "thib@example.com",
+    "role": "Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=B",
+    "bio": "UI/UX Designer đam mê tạo ra những trải nghiệm người dùng tinh tế và hiện đại."
+  },
+  {
+    "id": 3,
+    "name": "Lê Hoàng C",
+    "email": "hoangc@example.com",
+    "role": "Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=C",
+    "bio": "Lập trình viên Front-end trẻ tuổi, yêu thích Tailwind CSS và việc tối ưu hiệu năng web."
+  }, {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "email": "vana@example.com",
+    "role": "Administrator",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=A",
+    "bio": "Chuyên gia phát triển phần mềm với 5 năm kinh nghiệm làm việc với React và Node.js."
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "email": "thib@example.com",
+    "role": "Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=B",
+    "bio": "UI/UX Designer đam mê tạo ra những trải nghiệm người dùng tinh tế và hiện đại."
+  },
+  {
+    "id": 3,
+    "name": "Lê Hoàng C",
+    "email": "hoangc@example.com",
+    "role": "Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=C",
+    "bio": "Lập trình viên Front-end trẻ tuổi, yêu thích Tailwind CSS và việc tối ưu hiệu năng web."
+  }, {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "email": "vana@example.com",
+    "role": "Administrator",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=A",
+    "bio": "Chuyên gia phát triển phần mềm với 5 năm kinh nghiệm làm việc với React và Node.js."
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "email": "thib@example.com",
+    "role": "Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=B",
+    "bio": "UI/UX Designer đam mê tạo ra những trải nghiệm người dùng tinh tế và hiện đại."
+  },
+  {
+    "id": 3,
+    "name": "Lê Hoàng C",
+    "email": "hoangc@example.com",
+    "role": "Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=C",
+    "bio": "Lập trình viên Front-end trẻ tuổi, yêu thích Tailwind CSS và việc tối ưu hiệu năng web."
+  }, {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "email": "vana@example.com",
+    "role": "Administrator",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=A",
+    "bio": "Chuyên gia phát triển phần mềm với 5 năm kinh nghiệm làm việc với React và Node.js."
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "email": "thib@example.com",
+    "role": "Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=B",
+    "bio": "UI/UX Designer đam mê tạo ra những trải nghiệm người dùng tinh tế và hiện đại."
+  },
+  {
+    "id": 3,
+    "name": "Lê Hoàng C",
+    "email": "hoangc@example.com",
+    "role": "Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=C",
+    "bio": "Lập trình viên Front-end trẻ tuổi, yêu thích Tailwind CSS và việc tối ưu hiệu năng web."
+  } 
+
+]
